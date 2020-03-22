@@ -1,0 +1,14 @@
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\tut_2.exe
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\tut_2.deps.json
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\tut_2.runtimeconfig.json
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\tut_2.runtimeconfig.dev.json
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\tut_2.dll
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\tut_2.pdb
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.csprojAssemblyReference.cache
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.csproj.CoreCompileInputs.cache
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.AssemblyInfoInputs.cache
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.AssemblyInfo.cs
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.dll
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.pdb
+D:\ABPD\tut_2\tut_2\tut_2\obj\Debug\netcoreapp3.1\tut_2.genruntimeconfig.cache
+D:\ABPD\tut_2\tut_2\tut_2\bin\Debug\netcoreapp3.1\Files\data.csv
